@@ -1,0 +1,119 @@
+6
+"A little impressed, is someone helping you?",
+"I hope not, cause then we have no deal",
+"hmmmm? I'm also bending the rules?",
+"Why i never!",
+"IIIHAHAHAHAHA",
+"...",
+"Get me a brian and a muffin",
+"...wait, I read that wrong",
+"COFFIN! That's right but you are welcome to bring me a muffin too",
+"Hmmmmm?",
+"That's not scary?",
+"You prejudes human!",
+"You think i can't eat normal food, just like humans eat!?",
+"I most sirtenly can! but bring me one with batblood in it those are my favorit!",
+"...",
+"you don't like with bat blood?",
+"What a wirdo! now i have lost my appitiet",
+
+8
+"Hello Ghost here!",
+"I heard your haveing complications with wakeing up and i wondered if you would like my help?",
+"...",
+"Great!",
+"I heard scaring people can wake them up!",
+"Allow me to be at your service cause i just so happen to be an expert in scaring people",
+"...",
+"Great! Let's do it! I'll call you when you least ekspect it then!",
+"Later!",
+
+9
+"Good, good my little hopeful uglyness! Now wait for my call and i will have made a list of things we need for your wake-up potion!",
+"Don't worry it will all be eatable, totally safe!",
+"So, pick up! Don't leave me hanging... I will get mad an withdraw the deal!",
+"IIIIHahahahahah!",
+
+10
+"BUH!",
+"HA! Did i scare you?",
+"no?",
+"hmmm... I guess i'll try again later then?...",
+
+11
+"Weeeeaaaarrrrggggghhhhh....",
+"yaaahh...",
+"ZZZZzzzz",
+"...",
+
+12
+"I've been calling and calling but it said you were busy in another call!?",
+"Hope it was worth it cause your not getting that potion now!!",
+"IIIHaaahhahhahah",
+
+13
+"It's Dracula here!",
+"Welcome to tie Dracula-Online-World-Shop of...",
+"Bloodshakes",
+"bloodcakes",
+"bloodshampoos",
+"Bloodfacemasks",
+"Bloodnailpolish",
+"Bloodmakeup",
+"Bloodicecream",
+"Bloodsodas",
+"uhhh...",
+"and BLOOD!",
+"What will you like to order?",
+"...",
+"Wake-up potion?",
+"Is there blood in it?",
+
+14
+"BUH!!",
+"I must have gotten you this time!",
+"no?",
+"Huh...",
+"why are you like that?",
+"Your hurting my feelings",
+"Don't you know it's impolite to be unscared of a ghost?",
+
+15
+"I'm sorry. I'm not home. Please leave a message...",
+"hmmmm?",
+"WHAT DO YOU MEAN, I CALLED YOU!?",
+"WHY WOULD I do THAT!?",
+"...",
+"I guess I did put in alot of work and effort to create the list for your wake-up potion and it's just sitting here...",
+"you still want it?",
+"...",
+"What do you mean, at what cost!?",
+"have i ever given you reason to daubt me!?",
+"...",
+"Don't answer that!",
+"Now, first i need a carwheel!",
+"what?",
+"yes, it's digestible even for you! Get on with it!",
+
+17
+"IHAhahahaha! Perfect! Now, a hammer and a welly!",
+
+19
+"Lastly, a baseball bat and a toiletroll!",
+
+21
+"Perfect!",
+"Oo! I almost forgot the most importent ingriedient!
+"a CLOCK of course!",
+
+23
+"Great! Now,",
+"i'll mix it together for you",
+"Hmmmm?",
+"Feel sick?",
+"No, no but you might need to use the bathroom when you wake!",
+"IIHHHHAHAHAHAH!",
+"wait for the potion to appear somewhere near you and take it",
+"You will wake-up immediately!",
+
+        
